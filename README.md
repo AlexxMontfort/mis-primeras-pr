@@ -1,3 +1,6 @@
-# haz tu pr
+# Haz tus PR
 
-a
+```sh
+# Haz pull!
+git pull origin main
+```
